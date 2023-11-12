@@ -1,0 +1,42 @@
+.container-info{
+    width: 50%;
+}
+h1 span{
+    font-size: 24px;
+}
+p{
+    padding: 20px;
+}
+.btn-wpp{
+    margin-left: 3%;
+    padding: 15px 25px 15px 25px;
+    border-radius: 60px;
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.22);
+    font-weight: 500;
+    font-size: 17px;
+    border: solid 1px #6495ED;
+    background-color: #6495ED;
+    color: #fff;
+    transition: ease-out 0.3s;
+}
+.btn-wpp:hover{
+    cursor: pointer;
+   
+   
+}
+
+.btn-wpp {
+    display: inline-block;
+  }
+  
+  .linkwpp {
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  .icon {
+    padding: 9px;
+    margin: -9px; 
+    display: inline; /* dx o icone ao lado do txt*/
+  }
